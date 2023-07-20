@@ -54,7 +54,7 @@ Thanks for contributions, bug corrections & thorough testing to:
 #define _POSIX_C_SOURCE 2 /* to accept POSIX 2 in old ANSI C standards */
 #endif
 #endif
-
+//ABC
 #if !defined(_WIN32) && ( defined(__GNUC__) || defined(__clang__) )
 #if !defined(_GNU_SOURCE)
  #define _GNU_SOURCE /* used only to resolve symbolic links. Can be commented out */

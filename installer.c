@@ -1,7 +1,7 @@
 #define CURL_STATICLIB
 #define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
-
+//ABC
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <stdio.h>

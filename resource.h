@@ -3,7 +3,7 @@
 // Used by CCInstaller.rc
 //
 #define IDI_ICON1                       101
-
+//ABC
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED

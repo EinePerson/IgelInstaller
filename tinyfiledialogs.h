@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: ZLIB
 Copyright (c) 2014 - 2023 Guillaume Vareille http://ysengrin.com
-
+//ABC
 If you are using a C++ compiler to compile tinyfiledialogs.c (maybe renamed with an extension ".cpp")
 then comment out << extern "C" >> bellow in this header file)
   _________
